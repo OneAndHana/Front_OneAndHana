@@ -12,7 +12,7 @@ function Home() {
         <article>그림 넣을 곳</article>
       </main>
       <footer>
-        <p>글</p>
+        <p>글 또는 그림</p>
         <p>글</p>
       </footer>
     </div>
