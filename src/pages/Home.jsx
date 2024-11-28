@@ -13,7 +13,7 @@ function Home() {
       </main>
       <footer>
         <p>글 또는 그림</p>
-        <p>글</p>
+        <p>글 또는 그림</p>
       </footer>
     </div>
   );
